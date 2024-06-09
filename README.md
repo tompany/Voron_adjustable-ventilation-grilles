@@ -1,10 +1,12 @@
-#Voron 2.4 ajustable ventilation grilles
+# Voron 2.4 ajustable ventilation grilles
 
 These are some simple ventilation grilles that can be put in the doors and sidepanels of your Voron printer. I made them for my Voron 2.4r2, but they can also be used for other Voron models.
 
 With these grilles you can create an airflow over the building plate. Therefore they should be mounted with the holes just above the buildplate.
 
 The grilles are in Voron style with 6 sided holes and when they are shut the Voron Logo is visible.
+
+## Files
 
 There are 5 STL files:
 1. Grill Front (for M3 cone head screws).stl
@@ -17,13 +19,15 @@ There are 5 STL files:
 5. Grill Drilling Jig.stl
    - Use this drilling jig to mark the exact spots of the holes to drill in your panels. (See picture below.)
 
-Colours:
+## Colours:
 - RED for the Front and back
 - BLACK for the sliders
 
-##Some pictures
+## Some pictures
 
-![Using the drilling jig](https://github.com/tompany/Voron_adjustable_ventilation_grille/assets/19516703/eed8c972-776a-4423-bb42-aa7dd36480ec)
+![Align the edges, and mark the exact locations of the holes](https://github.com/tompany/Voron_adjustable_ventilation_grille/assets/19516703/93143658-843c-4a0e-954b-51357f3183d6)
+
+![Mount the grill](https://github.com/tompany/Voron_adjustable_ventilation_grille/assets/19516703/d5fca725-7ae5-4f10-a553-1f34c02caf2c)
 
 ![Grilles in front doors](https://github.com/tompany/Voron_adjustable_ventilation_grille/assets/19516703/76876154-0337-43dc-8763-75c008238834)
 
